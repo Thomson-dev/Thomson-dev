@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## 🚀 About Me  
-I am a **Software developer**  with a passion for creating scalable, high-performance applications and data-driven solutions. With expertise in full-stack development, data analysis, and machine learning, I enjoy solving complex problems and delivering impactful results.
+I am a **Software developer**  with a passion for creating scalable, high-performance applications and data-driven solutions. With expertise in full-stack development, I enjoy solving complex problems and delivering impactful results.
 
 ---
 
