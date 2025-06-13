@@ -21,7 +21,7 @@ I am a **Software developer**  with a passion for creating scalable, high-perfor
 
 ### 🛠️ Technical Skills  
 - **Languages**: JavaScript (ES6+), Python, SQL.  
-- **Frontend**: React, React Native, Tailwind CSS.  
+- **Frontend**: React, React Native, Flutter, Tailwind CSS.  
 - **Backend**: Node.js, Express.js.  
 - **Database**: MongoDB, Supabase.  
 - **Tools**: Git, Docker, Postman, VS Code.  
