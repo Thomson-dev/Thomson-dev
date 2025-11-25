@@ -30,28 +30,15 @@ I am a **Software developer**  with a passion for creating scalable, high-perfor
    - State Management with Zustand & Redux.  
    
 
----
 
-### 🌟 Current Projects  
-- **E-Commerce Platform**:  
-   Developing a feature-rich online shopping experience using the MERN stack, with advanced filtering, cart management, and order tracking.
-
-- **Coffee Shop Mobile App**:  
-   A React Native app offering cart, favorites, and order history features, integrating payment solutions and Zustand for state management.  
-
----
-
-### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thomson-dev&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomson-dev&layout=compact&theme=default)  
 
 ---
 
 ### 📫 Contact Me  
 - **Portfolio**: [https://thomson.vercel.app/])  
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- **Twitter**: [@YourHandle](https://twitter.com/your-profile)  
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
+
+- **Email**: [youremail@example.com](mailto:tomsinonyedikachi@gmail.com)
 
 ---
 
