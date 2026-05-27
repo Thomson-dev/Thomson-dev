@@ -64,8 +64,8 @@ A REST API for tracking and logging light intensity sensor data over time, desig
 ---
 
 ## 📫 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://thomson.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://thomson.vercel.app/)
+[![LinkedIn](https://www.linkedin.com/in/onyedikachi-thomson/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tomsinonyedikachi@gmail.com)
 
 ---
