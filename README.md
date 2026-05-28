@@ -59,7 +59,7 @@ A REST API for tracking and logging light intensity sensor data over time, desig
 - **Spring Boot 4** — entity design, DTO patterns, Spring Security, JPA relationships
 - **Flutter** — Clean Architecture, Bloc/Cubit, animations
 - **TensorFlow** — building toward a food dish classifier API (EfficientNet + FastAPI + Flutter)
-- **DSA** — grinding Neetcode 150 in Python
+- **DSA** — grinding Neetcode 150 in Python     
 
 ---
 
